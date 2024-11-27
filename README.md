@@ -8,7 +8,7 @@
 - Angular + Node (Express, Nest) como stack tecnológico
 
 ### Pruebas Técnicas
-Si eres reclutador, puedes ver las distintas pruebas tecnicas & proyectos personales más abajo, en mis repositorios destacados
+Si eres reclutador, consulta mis pruebas tecnicas & proyectos personales más abajo, en mis repositorios destacados
 
 ## 🇬🇧 English
 ### About Me
