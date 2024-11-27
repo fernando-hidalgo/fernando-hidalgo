@@ -1,16 +1,15 @@
-## Hi there 👋
+# Fernando Hidalgo Aguilar 👋
 
-<!--
-**fernando-hidalgo/fernando-hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mi
+- Desarrollador Web Fullstack.
+- Nivel C2 de Inglés por la Universidad de Cambridge.
+- Angular + Node (Express, Nest) como stack tecnológico
 
-Here are some ideas to get you started:
+## About Me
+- Fullstack Web Developer
+- C2 English level certified by Cambridge University
+- Angular + Node (Express, Nest) as tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+Linkedin -> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hidalgo-aguilar-047)
+Mail -> [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:fernan.hidalgo02@gmail.com)
