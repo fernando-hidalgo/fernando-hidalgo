@@ -1,4 +1,4 @@
-# Fernando Hidalgo Aguilar 👋
+# 👨‍💻 Fernando Hidalgo Aguilar
 
 ## Sobre Mi
 - Desarrollador Web Fullstack.
