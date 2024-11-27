@@ -1,6 +1,6 @@
 # 👨‍💻 Fernando Hidalgo Aguilar
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hidalgo-aguilar-047)
-[![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/CV-Espa%C3%B1ol-red))](https://github.com/user-attachments/files/17939761/CV.English.Fernando.Miguel.Hidalgo.Aguilar.pdf)
+[![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/CV-Espa%C3%B1ol-red))]
 
 ## 🇪🇸 Español
 ### Sobre Mi
