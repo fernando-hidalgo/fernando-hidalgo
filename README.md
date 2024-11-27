@@ -1,6 +1,6 @@
 # 👨‍💻 Fernando Hidalgo Aguilar [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hidalgo-aguilar-047)
 
-## Español
+## 🇪🇸 Español
 ### Sobre Mi
 - Desarrollador Web Fullstack.
 - Nivel C2 de Inglés por la Universidad de Cambridge.
@@ -9,7 +9,7 @@
 ### Pruebas Técnicas
 Si eres reclutador, puedes ver las distintas pruebas tecnicas & proyectos personales en mis repositorios anclados
 
-## English
+## 🇬🇧 English
 ### About Me
 - Fullstack Web Developer
 - C2 English level certified by Cambridge University
